@@ -1,0 +1,6 @@
+docker-compose.yaml
+data
+build
+docker-compose.yaml
+Dockerfile
+justfile
